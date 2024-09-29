@@ -1,8 +1,1 @@
-sentence-transformers
-ctransformers
-uvicorn
-langchain
-streamlit
-python-box
-
 
